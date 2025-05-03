@@ -4,7 +4,7 @@ Yet another Windows 11 debloating script. For 24H2.
 There's a lot of personalization here, so you might not like what it does.
 However, this gets rid of almost all of the unnecessary crap MS bundles with Windows nowadays.
 
-Currently this does not turn of all Recall and AI functions, as MS has yet to enable them in my machines.
+Currently this does not turn off all Recall and AI functions, as MS has yet to enable them in my machines.
 They might still be insider-only at the time of writing.
 
 Published on GitHub just so I have an easier access to this on computers I set up. But feel free to use and do whatever you want with it.
